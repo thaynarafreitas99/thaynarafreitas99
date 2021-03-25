@@ -6,7 +6,7 @@
 
 <br/>
 
-<p align = "left "> <img src =" https://komarev.com/ghpvc/?username=thaynarafreitas99&label=Profile%20views&color=0e75b6&style=flat "alt =" thaynarafreitas99 "/> </p>
+<p align = "left "> <img src="https://komarev.com/ghpvc/?username=thaynarafreitas99&label=Profile%20views&color=0e75b6&style=flat" alt ="thaynarafreitas99"/> </p>
 
 - 🔭 Eu trabalho na EVO W12 [https : //evo.w12.com.br/] (https://evo.w12.com.br/)
 
@@ -16,8 +16,12 @@
 
 <h3 align = "left"> Conecte-se a mim: </h3>
 <p align = "left">
-<a href="https://linkedin.com/in/thaynara-freitas" target="blank"> <img align = "center" src = "https://cdn.jsdelivr.net/npm/simple-icons @ 3.0.1 / icons / linkedin.svg "alt =" thaynara-freitas "height =" 30 "width =" 40 "/> </a>
-<a href =" https://instagram.com/_tha01 "target = "em branco"> <img align = "center" src = "https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt = "_ tha01" height = "30 "width =" 40 "/> </a>
+  https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white
+  https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
+	https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white
+	https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white
+	https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white
+	https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white
 </p>
 
 <h3 align =" left "> Idiomas e ferramentas: </h3>
