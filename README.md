@@ -14,11 +14,13 @@
   
 - 🔭 Eu trabalho na EVO W12 [https : //evo.w12.com.br/] (https://evo.w12.com.br/)
 
+ </p>
+
 - 🌱 Atualmente estou estudando ** React e Vue.js **
 
 - 📫 Pode me contatar pelo e-mail * *thaynara.freitas12@hotmail.com**
 
- </p>
+
 
 <h3 align = "center"> Conecte-se a mim: </h3>
 <p align = "center">
