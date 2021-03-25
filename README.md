@@ -1,7 +1,7 @@
 <h1 align = "center"> Olá 👋, eu sou a Thay. </h1>
 <h3 align = "center"> Front-end Jr em Angular </h3>
 
-<img src="https://i.giphy.com/media/5xaOcLSiHjl31yG4ZNK/giphy.webp"/>
+<img align = "center" src="https://i.giphy.com/media/5xaOcLSiHjl31yG4ZNK/giphy.webp"/>
 
 
 <br/>
