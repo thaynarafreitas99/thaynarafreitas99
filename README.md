@@ -5,6 +5,9 @@
 
 <br/>
 
+
+<p align = "center ">
+  
 <p align = "left "> <img src="https://komarev.com/ghpvc/?username=thaynarafreitas99&label=Profile%20views&color=0e75b6&style=flat" alt ="thaynarafreitas99"/> </p>
 
 - 🔭 Eu trabalho na EVO W12 [https : //evo.w12.com.br/] (https://evo.w12.com.br/)
@@ -30,3 +33,5 @@
 <br/>
 
 <p> <img align = "center" src = "https://github-readme-stats.vercel.app/api?username=thaynarafreitas99&show_icons=true&locale=en" alt = "thaynarafreitas99" /> </p>
+
+ </p>
