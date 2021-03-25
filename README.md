@@ -16,12 +16,8 @@
 
 <h3 align = "left"> Conecte-se a mim: </h3>
 <p align = "left">
-  https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white
-  https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
-	https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white
-	https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white
-	https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white
-	https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white
+<a href="https://linkedin.com/in/thaynara-freitas" target="blank"> <img align = "center" src = "https://cdn.jsdelivr.net/npm/simple-icons @ 3.0.1 / icons / linkedin.svg "alt =" thaynara-freitas "height =" 30 "width =" 40 "/> </a>
+<a href =" https://instagram.com/_tha01 "target = "em branco"> <img align = "center" src = "https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt = "_ tha01" height = "30 "width =" 40 "/> </a>
 </p>
 
 <h3 align =" left "> Idiomas e ferramentas: </h3>
@@ -30,4 +26,3 @@
 <p> <img align = "left" src = "https://github-readme-stats.vercel.app/api/top-langs?username=thaynarafreitas99&show_icons=true&locale=en&layout=compact" alt = "thaynarafreitas99" /> </p>
 
 <p> & nbsp; <img align = "center" src = "https://github-readme-stats.vercel.app/api?username=thaynarafreitas99&show_icons=true&locale=en" alt = "thaynarafreitas99" /> </p>
-
