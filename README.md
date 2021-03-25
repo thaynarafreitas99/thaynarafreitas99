@@ -1,11 +1,17 @@
 <h1 align = "center"> Olá 👋, eu sou a Thay. </h1>
 <h5 align = "center"> Front-end Jr em Angular 😎</h3>
 
-<p align = "center "> <img  src="https://media.giphy.com/media/LwFeDOu5VITgab0aDK/giphy.gif"/> </p>
+<p align = "center "> <img  src="https://media.giphy.com/media/YnS7j9pwnECXLMrI4t/giphy.gif"/> </p>
+
+<!-- <p align = "center "> <img  src="https://media.giphy.com/media/LwFeDOu5VITgab0aDK/giphy.gif"/> </p> -->
 
 <br/>
 
+
+
+
 <p align = "center "> <img src="https://komarev.com/ghpvc/?username=thaynarafreitas99&label=Profile%20views&color=0e75b6&style=flat" alt ="thaynarafreitas99"/> </p>
+
 
   <h5 align = "center">🔭 Eu trabalho na EVO W12 [https : //evo.w12.com.br/] (https://evo.w12.com.br/) </h3>
   <h5 align = "center">🌱 Atualmente estou estudando ** React e Vue.js ** </h3>
