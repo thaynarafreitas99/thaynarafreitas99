@@ -1,8 +1,7 @@
 <h1 align = "center"> Olá 👋, eu sou a Thay. </h1>
-<h3 align = "center"> Front-end Jr em Angular </h3>
+<h5 align = "center"> Front-end Jr em Angular </h3>
 
-<img align = "center" src="https://i.giphy.com/media/5xaOcLSiHjl31yG4ZNK/giphy.webp"/>
-
+<p align = "center "> <img  src="https://i.giphy.com/media/5xaOcLSiHjl31yG4ZNK/giphy.webp"/> </p>
 
 <br/>
 
@@ -16,7 +15,7 @@
 
 <h3 align = "left"> Conecte-se a mim: </h3>
 <p align = "left">
-<a href="https://linkedin.com/in/thaynara-freitas" target="blank"> <img align = "center" src = "https://cdn.jsdelivr.net/npm/simple-icons @ 3.0.1 / icons / linkedin.svg "alt =" thaynara-freitas "height =" 30 "width =" 40 "/> </a>
+<a href="https://linkedin.com/in/thaynara-freitas" target="blank"> <img align = "center" src = "https://cdn.jsdelivr.net/npm/simple-icons@4.16.0/icons/linkedin.svg "alt =" thaynara-freitas "height =" 30 "width =" 40 "/> </a>
 <a href =" https://instagram.com/_tha01 "target = "em branco"> <img align = "center" src = "https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt = "_ tha01" height = "30 "width =" 40 "/> </a>
 </p>
 
