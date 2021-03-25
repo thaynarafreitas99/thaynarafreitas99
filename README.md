@@ -14,7 +14,7 @@
 
 <h3 align = "center"> Conecte-se a mim: </h3>
 
-<h3 align = "center">[<img  src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/USERNAME) </h3>
+<p align = "center">[<img  src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/USERNAME) </p>
 
 <p align = "center">
 
