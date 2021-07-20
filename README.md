@@ -26,8 +26,7 @@
 
 <div align = "center"> <div>
 
-[<img  src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/thaynara-freitas/) )
-[<img  src = "https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white">](https://www.spotify.com/USERNAME)
+[<img  src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/thaynara-freitas/) 
 
 <h3 align = "center"> Linguagens, Frameworks e ferramentas </h3>
 
