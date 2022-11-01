@@ -1,5 +1,5 @@
 <h1 align = "center"> Olá 👋, eu sou a Thay. </h1>
-<h5 align = "center"> Front-end Jr nível 3 | Angular 2+ 😎</h3>
+<h5 align = "center"> Front-end pleno | Angular 2+ 😎</h3>
 
 
 <p align = "center "> <img  src="https://media.giphy.com/media/cYeHgdouckUj0edXov/giphy.gif"/> </p>
