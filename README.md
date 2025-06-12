@@ -17,7 +17,7 @@
 <p align = "center "> <img src="https://komarev.com/ghpvc/?username=thaynarafreitas99&label=Profile%20views&color=0e75b6&style=flat" alt ="thaynarafreitas99"/> </p>
 
 
-  <h5 align = "center">🔭 Sou front-end na W12, empresa responsável pelo software de gestão fitness EVO a mais de 3 anos.</h3>
+  <h5 align = "center">🔭 Sou front-end na ABC EVO, empresa responsável pelo software de gestão fitness EVO a mais de 6 anos.</h3>
 <!--   <h5 align = "center">🌱 Atualmente estou me aprofundando nos estudos de JavaScript/TypeScript com intuíto de avançar nos frameworks Angular/ReactJs.</h3> -->
   <h5 align = "center">📫 Pode me contatar pelo e-mail thaynara.freitas12@hotmail.com </h3>
 
