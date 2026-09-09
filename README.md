@@ -1,4 +1,4 @@
-<<h1 align="center">Olá 👋, eu sou a Thay</h1>
+<h1 align="center">Olá 👋, eu sou a Thay</h1>
 
 <h3 align="center">Programadora Front-end · Angular 2+ 😎</h3>
 
@@ -8,7 +8,7 @@
 
 <p align="center">
   <a href="https://www.thayfrontend.com.br/">
-    <img src="https://img.shields.io/badge/🌐_meu_site-thayfrontend.com.br-8c4d8a?style=for-the-badge" alt="www.thayfrontend.com.br">
+    <img src="https://img.shields.io/badge/%F0%9F%8C%90_meu_site-thayfrontend.com.br-8c4d8a?style=for-the-badge" alt="www.thayfrontend.com.br">
   </a>
   <a href="https://www.linkedin.com/in/thaynara-freitas-4037a2b4/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
@@ -82,7 +82,7 @@ intuitivas**, equilibrando qualidade técnica, performance e criatividade.
 ### ⭐ Projeto em destaque
 
 <a href="https://github.com/thaynarafreitas99/portfolio_thayfrontend">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=thaynarafreitas99&repo=portfolio_thayfrontend&theme=tokyonight&hide_border=true" alt="Portfólio Thay Freitas">
+  <img width="520" src="https://opengraph.githubassets.com/1/thaynarafreitas99/portfolio_thayfrontend" alt="Repositório do portfólio">
 </a>
 
 **[Meu portfólio](https://www.thayfrontend.com.br/)** — uma página só, em Angular 17 com
@@ -95,8 +95,8 @@ e SEO.
 ### 📊 GitHub
 
 <p>
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=thaynarafreitas99&show_icons=true&theme=tokyonight&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaynarafreitas99&layout=compact&theme=tokyonight&hide_border=true&locale=pt-br" alt="Linguagens mais usadas">
+  <img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=thaynarafreitas99&theme=tokyonight" alt="Estatísticas do GitHub">
+  <img height="185" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=thaynarafreitas99&theme=tokyonight" alt="Linguagens mais usadas">
 </p>
 
 ---
@@ -105,4 +105,3 @@ e SEO.
   💜 Quer um site ou tem uma proposta? Manda pelo formulário do
   <a href="https://www.thayfrontend.com.br/#contato">meu site</a>.
 </p>
-
