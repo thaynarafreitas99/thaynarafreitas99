@@ -29,7 +29,7 @@
 
 ### 👩‍💻 Sobre mim
 
-Sou **Thaynara Freitas**, a Thay — desenvolvedora **front-end com mais de 6 anos de
+Sou **Thaynara Freitas**, a Thay — desenvolvedora **front-end com mais de 7 anos de
 experiência**, especializada em **Angular**.
 
 🚀 Atuo como **Front-end Angular Pleno II na ABC Fitness**, empresa responsável pelo
